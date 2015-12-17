@@ -1,6 +1,6 @@
 {
   "name": "chai-contained",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "More friendly version of .contain()",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,9 @@
   ],
   "author": "GooGo",
   "license": "ISC",
+  "engines": {
+    "node": ">=4.2.0"
+  },
   "devDependencies": {
     "chai": "^3.4.1",
     "mocha": "^2.3.4"
