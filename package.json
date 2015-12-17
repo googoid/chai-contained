@@ -1,0 +1,19 @@
+{
+  "name": "chai-contained",
+  "version": "0.0.1",
+  "description": "More friendly version of .contain()",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/_mocha --reporter list"
+  },
+  "keywords": [
+    "chai",
+    "chai-plugin"
+  ],
+  "author": "GooGo",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
