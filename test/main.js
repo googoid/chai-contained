@@ -21,7 +21,6 @@ describe('chai-contained', () => {
 
     it('should pass if arr contains a', () => {
       expect('a').to.be.containedIn(['a', 'b', 'c']);
-      expect('foo').to.be.containedIn(['noFoo', 'baz']); // will fail
     });
   });
 });

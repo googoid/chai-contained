@@ -1,6 +1,6 @@
 {
   "name": "chai-contained",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "More friendly version of .contain()",
   "main": "index.js",
   "scripts": {
