@@ -1,6 +1,7 @@
 # chai-contained
 
 Usage example:
+
 ``` javascript
 var chai = require('chai')
   , expect = chai.expect
